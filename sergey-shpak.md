@@ -7,3 +7,5 @@
 <b>Favourite food:</b> Apples
 
 <b>Hobby:</b> Coding
+
+<b>Favorite color:</b> Red
