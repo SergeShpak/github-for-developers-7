@@ -9,3 +9,5 @@
 <b>Hobby:</b> Coding
 
 <b>Favorite color:</b> Red
+
+<b>Homeplanet:</b> Earth
